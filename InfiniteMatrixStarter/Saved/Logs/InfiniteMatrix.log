@@ -2387,3 +2387,209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.21-18.55.25:858][583]LogSlate: Window 'BP_Player' being destroyed
 [2021.09.21-18.55.25:859][583]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
 [2021.09.21-18.55.25:859][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-18.55.55:738][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.09.21-18.55.55:739][796]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/InfiniteMatrix/Maps/TutorialMap' took 0.018
+[2021.09.21-18.55.55:739][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel] ([1] browsable assets)...
+[2021.09.21-18.55.55:754][796]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/InfiniteMatrix/Blueprints/BP_Tunnel.BP_Tunnel]
+[2021.09.21-18.55.55:754][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/Blueprints/BP_Tunnel]
+[2021.09.21-18.55.55:780][796]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/BP_Tunnel_Auto6135CEDB2469E1DCA822794AA302E9DDA.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/Blueprints/BP_Tunnel_Auto6.uasset'
+[2021.09.21-18.55.55:782][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/InfiniteMatrix/UI/Health_BAr] ([1] browsable assets)...
+[2021.09.21-18.55.55:782][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/InfiniteMatrix/UI/Health_BAr]
+[2021.09.21-18.55.55:793][796]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Health_BAr_Auto6E2E5080644E1CB7D89577EBA1D8604CE.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Autosaves/Game/InfiniteMatrix/UI/Health_BAr_Auto6.uasset'
+[2021.09.21-18.55.55:794][796]LogFileHelpers: Auto-saving content packages took 0.055
+[2021.09.21-19.48.13:490][304]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.09.21-19.48.13:496][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.21-19.48.13:497][304]PIE: New page: PIE session: TutorialMap (2021年9月21日 上午9:48:13)
+[2021.09.21-19.48.13:497][304]LogPlayLevel: Creating play world package: /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.21-19.48.13:498][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001371s)
+[2021.09.21-19.48.13:499][304]LogAIModule: Creating AISystem for world TutorialMap
+[2021.09.21-19.48.13:499][304]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2021.09.21-19.48.13:499][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap to /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap (0.002464s)
+[2021.09.21-19.48.13:515][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.09.21-19.48.13:517][304]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.21-19.48.13:517][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.21-19.48.13:517][304]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.21-19.48.13:517][304]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.21-19.48.13:523][304]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.21-19.48.13:523][304]LogAudioMixer: Display: 1: FrontRight
+[2021.09.21-19.48.13:532][304]LogAudioMixer: Display: Using Audio Device HP 27wm (NVIDIA High Definition Audio)
+[2021.09.21-19.48.13:532][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.21-19.48.13:532][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.21-19.48.13:532][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.21-19.48.13:533][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.21-19.48.13:533][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.21-19.48.13:533][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.21-19.48.13:546][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.21-19.48.13:546][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.21-19.48.13:546][304]LogInit: FAudioDevice initialized.
+[2021.09.21-19.48.13:546][304]LogAudio: Display: Audio Device (ID: 24) registered with world 'TutorialMap'.
+[2021.09.21-19.48.13:647][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-19.48.13:647][304]LogLoad: Game class is 'GM_Tutorial_C'
+[2021.09.21-19.48.13:648][304]LogWorld: Bringing World /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap.TutorialMap up for play (max tick rate 0) at 2021.09.21-14.48.13
+[2021.09.21-19.48.13:649][304]LogWorld: Bringing up level for play took: 0.000506
+[2021.09.21-19.48.13:649][304]LogOnline: OSS: Creating online subsystem instance for: :Context_54
+[2021.09.21-19.48.13:654][304]PIE: Server logged in
+[2021.09.21-19.48.13:655][304]PIE: Play in editor total start time 0.159 seconds.
+[2021.09.21-19.48.32:215][519]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2021.09.21-19.48.32:215][519]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.09.21-19.48.36:703][ 54]AssetReimport: New page: Outstanding source content changes 上午9:48:36
+[2021.09.21-19.48.37:089][ 54]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Thin.ttf)
+[2021.09.21-19.48.43:586][ 54]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.43:602][ 54]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.43:608][ 54]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.43:612][ 55]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.43:614][ 55]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-ThinItalic.ttf)
+[2021.09.21-19.48.43:778][ 55]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.45:521][ 55]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.45:530][ 55]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.45:536][ 55]LogSlate: Took 0.000437 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.45:539][ 55]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.45:547][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.45:553][ 56]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.45:554][ 56]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Light.ttf)
+[2021.09.21-19.48.45:716][ 56]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.46:132][ 56]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.46:141][ 56]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.46:146][ 56]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.46:149][ 56]LogSlate: Took 0.000065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.46:158][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.46:161][ 57]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.46:162][ 57]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-LightItalic.ttf)
+[2021.09.21-19.48.46:300][ 57]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.46:580][ 57]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.46:589][ 57]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.46:593][ 57]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.46:596][ 57]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.46:604][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.46:608][ 58]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.46:609][ 58]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Regular.ttf)
+[2021.09.21-19.48.46:734][ 58]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.47:032][ 58]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.47:042][ 58]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.47:047][ 58]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.47:051][ 58]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.47:059][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.47:062][ 59]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.47:064][ 59]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Italic.ttf)
+[2021.09.21-19.48.47:186][ 59]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.47:566][ 59]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.47:573][ 59]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.47:577][ 59]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.47:580][ 59]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.47:588][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.47:592][ 60]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.47:593][ 60]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Medium.ttf)
+[2021.09.21-19.48.47:737][ 60]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.48:151][ 60]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.48:161][ 60]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.48:165][ 60]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.48:168][ 60]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.48:177][ 60]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.48:181][ 61]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.48:182][ 61]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-MediumItalic.ttf)
+[2021.09.21-19.48.48:305][ 61]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.48:706][ 61]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.48:713][ 61]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.48:717][ 61]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.48:720][ 61]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.48:729][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.48:732][ 62]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.48:734][ 62]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Bold.ttf)
+[2021.09.21-19.48.48:855][ 62]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.49:220][ 62]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.49:231][ 62]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.49:236][ 62]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.49:239][ 62]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.49:247][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.49:251][ 63]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.49:253][ 63]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-BoldItalic.ttf)
+[2021.09.21-19.48.49:391][ 63]LogSlate: Took 0.000084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.49:840][ 63]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.49:850][ 63]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.49:855][ 63]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.49:859][ 63]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.49:866][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.49:872][ 64]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.49:873][ 64]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-BlackItalic.ttf)
+[2021.09.21-19.48.50:009][ 64]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.50:392][ 64]LogSlate: Window 'Font Face Import Options' being destroyed
+[2021.09.21-19.48.50:400][ 64]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.50:404][ 64]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.50:407][ 64]LogSlate: Took 0.000069 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.50:415][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.50:419][ 65]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Black.ttf)
+[2021.09.21-19.48.50:419][ 65]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2021.09.21-19.48.50:420][ 65]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.50:421][ 65]LogSlate: Took 0.001404 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.21-19.48.50:426][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-Thin2F3A1AEB4F98A2F52F123E9754E16189.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Thin.uasset'
+[2021.09.21-19.48.50:428][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-ThinItalic6D58B53A4AACF4FF33FB50A89614ADB9.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-ThinItalic.uasset'
+[2021.09.21-19.48.50:430][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-Light6A00FB8C47683CDA331728AB57613615.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Light.uasset'
+[2021.09.21-19.48.50:432][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-LightItalic0C486835419A6570FD93F4BFE91D9294.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-LightItalic.uasset'
+[2021.09.21-19.48.50:434][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-Regular54497C2B4A91990211C4E5961234E143.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Regular.uasset'
+[2021.09.21-19.48.50:436][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-ItalicDAF3D6A4440463763584589E486C6377.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Italic.uasset'
+[2021.09.21-19.48.50:438][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-MediumE4A5E95344C0DC3EA107B3A828814735.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Medium.uasset'
+[2021.09.21-19.48.50:439][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-MediumItalic79E3D61A4992BD4BA328DBBC6DF9686E.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-MediumItalic.uasset'
+[2021.09.21-19.48.50:441][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-Bold20E4848146CE525877AF6EBA9A632145.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Bold.uasset'
+[2021.09.21-19.48.50:443][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-BoldItalic5789BE4B4181FF548F6C58BFF62BCA87.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-BoldItalic.uasset'
+[2021.09.21-19.48.50:445][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-BlackItalicD4320992484CBDA542DE6B8ED4D3C9DB.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-BlackItalic.uasset'
+[2021.09.21-19.48.50:447][ 65]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/Roboto-Black0EF02097465036D086F6AABAAC7B49B6.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Black.uasset'
+[2021.09.21-19.48.50:495][ 65]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.50:498][ 65]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.50:502][ 65]LogSlate: Took 0.000071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.50:509][ 65]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.48.50:518][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.21-19.48.50:518][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-BlackItalic.Roboto-BlackItalic
+[2021.09.21-19.48.50:518][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Regular.Roboto-Regular
+[2021.09.21-19.48.50:518][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Black.Roboto-Black
+[2021.09.21-19.48.50:518][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-LightItalic.Roboto-LightItalic
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Light.Roboto-Light
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-ThinItalic.Roboto-ThinItalic
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Thin.Roboto-Thin
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-BoldItalic.Roboto-BoldItalic
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Bold.Roboto-Bold
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-MediumItalic.Roboto-MediumItalic
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Medium.Roboto-Medium
+[2021.09.21-19.48.50:519][ 66]LogContentValidation: Display: Validating FontFace /Game/InfiniteMatrix/UI/Roboto-Italic.Roboto-Italic
+[2021.09.21-19.48.50:522][ 66]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.21-19.48.50:525][ 66]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.21-19.48.50:528][ 66]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.21-19.48.50:533][ 66]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.21-19.48.50:662][ 81]LogSlate: Took 0.000761 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.21-19.48.50:973][119]LogEditorViewport: Clicking Background
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Thin.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-ThinItalic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Light.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-LightItalic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Regular.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Italic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Medium.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-MediumItalic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-Bold.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-BoldItalic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Importing new asset /Game/InfiniteMatrix/UI/Roboto-BlackItalic.
+[2021.09.21-19.48.53:456][397]AssetReimport: Reimported asset Roboto-Black from C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/Roboto-Black.ttf.
+[2021.09.21-19.49.06:579][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.09.21-19.49.06:588][924]LogSavePackage: Moving 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Saved/TutorialMapE69C99D54CD6DB341473CB8EAB1334E8.tmp' to 'C:/Users/ll450/OneDrive/桌面/CS498/mp1/CS498-Game-Design/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap'
+[2021.09.21-19.49.06:601][924]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.21-19.49.06:602][924]LogContentValidation: Display: Validating World /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap
+[2021.09.21-19.49.06:602][924]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InfiniteMatrix/Maps/TutorialMap.TutorialMap_BuiltData
+[2021.09.21-19.49.19:097][405]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2021.09.21-19.49.19:097][405]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.09.21-19.49.28:420][520]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.21-19.49.28:421][520]LogWorld: BeginTearingDown for /Game/InfiniteMatrix/Maps/UEDPIE_0_TutorialMap
+[2021.09.21-19.49.28:422][520]LogSlate: Window 'InfiniteMatrix Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.21-19.49.28:431][520]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.21-19.49.28:431][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.49.28:436][520]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.21-19.49.28:440][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.21-19.49.28:456][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-19.49.28:456][520]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.21-19.49.28:477][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.21-19.49.28:729][521]LogPlayLevel: Display: Destroying online subsystem :Context_54
